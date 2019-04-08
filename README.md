@@ -1,1 +1,1 @@
-The purpose of this project is for me to test my current skill set regarding CSS and HTML by emulating a test site. I did by constructing a non-functional version of the Google homepage.
+The purpose of this project is for me to test my current skill set regarding CSS and HTML by emulating a test site. I did by constructing a non-functional version of the Google homepage. Hopefully my skills will improve in the future as this seemed pretty sloppy.
